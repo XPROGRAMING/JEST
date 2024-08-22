@@ -11,8 +11,8 @@ Siga estes passos para configurar e rodar o projeto:
 
 Clone o repositório:
 
-git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/XPROGRAMING/JEST.git
+cd JESTTRAB
 
 Instale as dependências:
 
